@@ -1,0 +1,10 @@
+E:\Chockalingam\Projects\Biometric Reader\Biometric Reader\Biometric Reader\bin\Debug\Biometric Reader.exe.config
+E:\Chockalingam\Projects\Biometric Reader\Biometric Reader\Biometric Reader\bin\Debug\Biometric Reader.exe
+E:\Chockalingam\Projects\Biometric Reader\Biometric Reader\Biometric Reader\bin\Debug\Biometric Reader.pdb
+E:\Chockalingam\Projects\Biometric Reader\Biometric Reader\Biometric Reader\obj\Debug\Biometric Reader.csprojResolveAssemblyReference.cache
+E:\Chockalingam\Projects\Biometric Reader\Biometric Reader\Biometric Reader\obj\Debug\Biometric_Reader.BiometricReader.resources
+E:\Chockalingam\Projects\Biometric Reader\Biometric Reader\Biometric Reader\obj\Debug\Biometric_Reader.Properties.Resources.resources
+E:\Chockalingam\Projects\Biometric Reader\Biometric Reader\Biometric Reader\obj\Debug\Biometric Reader.csproj.GenerateResource.Cache
+E:\Chockalingam\Projects\Biometric Reader\Biometric Reader\Biometric Reader\obj\Debug\Biometric Reader.exe
+E:\Chockalingam\Projects\Biometric Reader\Biometric Reader\Biometric Reader\obj\Debug\Biometric Reader.pdb
+E:\Chockalingam\Projects\Biometric Reader\Biometric Reader\Biometric Reader\obj\Debug\Biometric Reader.g.resources
